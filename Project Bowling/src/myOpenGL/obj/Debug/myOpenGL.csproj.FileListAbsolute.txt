@@ -1,0 +1,27 @@
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\oram1\Desktop\Project-312461486\P9\texturedOGL\myOpenGL\obj\Debug\myOpenGL.pdb
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\bin\Debug\myOpenGL.exe
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\bin\Debug\myOpenGL.pdb
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.csproj.AssemblyReference.cache
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.exe
+D:\tigres\fiverr\shalevsharf - csharp opengl\src\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\oram1\Desktop\פרוייקט\src\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\oram1\Desktop\פרוייקט\src\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.pdb
