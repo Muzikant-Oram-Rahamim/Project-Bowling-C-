@@ -122,6 +122,8 @@ namespace OpenGL
         // to launch the ball, set to true
         Boolean animate = false;
 
+        int ballColorIndex = 3;
+
         // z position of the ball
         float zBall = -5.0f;
 
@@ -621,7 +623,7 @@ namespace OpenGL
             GL.glMaterialfv(GL.GL_FRONT_AND_BACK, GL.GL_DIFFUSE, d);
             GL.glMaterialfv(GL.GL_FRONT_AND_BACK, GL.GL_AMBIENT, a);
 
-            GL.glBindTexture(GL.GL_TEXTURE_2D, Textures[3]);
+            GL.glBindTexture(GL.GL_TEXTURE_2D, Textures[ballColorIndex]);
 
             GL.glEnable(GL.GL_TEXTURE_GEN_S);
             GL.glEnable(GL.GL_TEXTURE_GEN_T);
@@ -634,6 +636,14 @@ namespace OpenGL
 
             GL.glDisable(GL.GL_TEXTURE_GEN_S);
             GL.glDisable(GL.GL_TEXTURE_GEN_T);
+        }
+
+        public void changeBallColor() {
+            if(ballColorIndex == 3) {
+                ballColorIndex = 0;
+            } else {
+                ballColorIndex = 3;
+            }
         }
 
         public void launch()

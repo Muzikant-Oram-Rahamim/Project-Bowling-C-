@@ -67,6 +67,11 @@ namespace myOpenGL
 
         }
 
+        private void changeBallImage_Click(object sender, EventArgs e)
+        {
+           cGL.changeBallColor();
+        }
+
         private void timerRUN_Tick(object sender, EventArgs e)
         {
             cGL.Draw(); 
