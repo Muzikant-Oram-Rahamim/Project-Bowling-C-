@@ -32,6 +32,7 @@ namespace myOpenGL
             this.button1 = new System.Windows.Forms.Button();
             this.timerRepaint = new System.Windows.Forms.Timer(this.components);
             this.button3 = new System.Windows.Forms.Button();
+            this.changeBallImage = new System.Windows.Forms.Button();
             this.timerRUN = new System.Windows.Forms.Timer(this.components);
             this.hScrollBar1 = new System.Windows.Forms.HScrollBar();
             this.label1 = new System.Windows.Forms.Label();
@@ -62,6 +63,16 @@ namespace myOpenGL
             this.button3.Text = "Restart";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // changeBallImage
+            // 
+            this.changeBallImage.Location = new System.Drawing.Point(760, 150);
+            this.changeBallImage.Name = "changeBallImage";
+            this.changeBallImage.Size = new System.Drawing.Size(115, 45);
+            this.changeBallImage.TabIndex = 4;
+            this.changeBallImage.Text = "Change Ball Image";
+            this.changeBallImage.UseVisualStyleBackColor = true;
+            this.changeBallImage.Click += new System.EventHandler(this.changeBallImage_Click);
             // 
             // timerRUN
             // 
@@ -109,6 +120,7 @@ namespace myOpenGL
             this.Controls.Add(this.hScrollBar1);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button1);
+            this.Controls.Add(this.changeBallImage);
             this.Controls.Add(this.panel1);
             this.KeyPreview = true;
             this.Name = "Form1";
@@ -127,6 +139,7 @@ namespace myOpenGL
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Timer timerRepaint;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button changeBallImage;
         private System.Windows.Forms.Timer timerRUN;
         private System.Windows.Forms.HScrollBar hScrollBar1;
         private System.Windows.Forms.Label label1;

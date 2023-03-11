@@ -25,3 +25,13 @@ C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\
 C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
 C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.exe
 C:\Users\oram1\Desktop\Project 312461486 (1)\Project 312461486\src\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\bin\Debug\myOpenGL.exe.config
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.csprojAssemblyReference.cache
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.cache
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.csproj.CoreCompileInputs.cache
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\yarin\Source\Repos\Project-Bowling-C-\Project Bowling\src\myOpenGL\obj\Debug\myOpenGL.pdb
